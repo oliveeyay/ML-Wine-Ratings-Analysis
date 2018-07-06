@@ -5,8 +5,10 @@ https://www.kaggle.com/olivierg13/wine-ratings-analysis-w-supervised-ml
 
 
 You can see the notebooks results here:
-[Analysis Notebook](https://github.com/olivierg13/WinesSparklingsKeras/blob/master/notebooks/wine_ml_analysis.ipynb)
-[Explanation Notebook](https://github.com/olivierg13/WinesSparklingsKeras/blob/master/notebooks/wine_ml_explanation.ipynb)
+
+[Analysis Notebook](https://github.com/olivierg13/ML-Wine-Ratings-Analysis/blob/master/notebooks/wine_ml_analysis.ipynb)
+
+[Explanation Notebook](https://github.com/olivierg13/ML-Wine-Ratings-Analysis/blob/master/notebooks/wine_ml_explanation.ipynb)
 
 
 For reference, an article was also published on "Towards Data Science" medium group:
