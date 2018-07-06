@@ -6,10 +6,8 @@ This is the source code (IPython notebook script and data) from these Kaggle pro
 
 
 You can see the notebooks results here:
-
-[Analysis Notebook](https://github.com/olivierg13/ML-Wine-Ratings-Analysis/blob/master/notebooks/wine_ml_analysis.ipynb)
-
-[Explanation Notebook](https://github.com/olivierg13/ML-Wine-Ratings-Analysis/blob/master/notebooks/wine_ml_explanation.ipynb)
+- [Analysis Notebook](https://github.com/olivierg13/ML-Wine-Ratings-Analysis/blob/master/notebooks/wine_ml_analysis.ipynb)
+- [Explanation Notebook](https://github.com/olivierg13/ML-Wine-Ratings-Analysis/blob/master/notebooks/wine_ml_explanation.ipynb)
 
 
 For reference, an article was also published on "Towards Data Science" medium group:
