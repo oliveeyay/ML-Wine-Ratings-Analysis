@@ -1,7 +1,8 @@
 # Wine Ratings Prediction using Machine Learning
 
-This is the source code (IPython notebook script and data) from this Kaggle project:
-https://www.kaggle.com/olivierg13/wine-ratings-analysis-w-supervised-ml
+This is the source code (IPython notebook script and data) from these Kaggle projects:
+- https://www.kaggle.com/olivierg13/wine-ratings-analysis-w-supervised-ml
+- https://www.kaggle.com/olivierg13/wine-ratings-ml-explanations-using-lime
 
 
 You can see the notebooks results here:
